@@ -1,3 +1,3 @@
 # JPA
 
-Java Persistence API (ou simplesmente JPA) é uma API padrão da linguagem Java que descreve uma interface comum para frameworks de persistência de dados. 
+Java Persistence API (or simply JPA) is a standard Java language API that describes a common interface for data persistence frameworks. 
